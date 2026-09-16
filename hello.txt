@@ -1,1 +1,2 @@
 Hello Git people!
+This is the second line.
