@@ -4,5 +4,6 @@ Third line added in equilibrium branch.
 This is the 4th line.
 
 Testing fetch command....
-New line
+New line.
+Push change, this is line 8.
 
