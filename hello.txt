@@ -2,3 +2,5 @@ Hello Git people!
 This is the second line.
 Third line added in equilibrium branch.
 This is the 4th line.
+
+Testing fetch command....
